@@ -1,0 +1,54 @@
+{
+  "akcije": [
+    {
+      "id": 1,
+      "akcija": {
+        "naziv": "Čišćenje plaže",
+        "grad": "Split",
+        "datum": "2024-05-15",
+        "organizator": "Zelena budućnost",
+        "voditelj": "Petra Novak"
+      }
+    },
+    {
+      "id": 2,
+      "akcija": {
+        "naziv": "Uređenje parka",
+        "grad": "Zadar",
+        "datum": "2024-05-16",
+        "organizator": "Humanitarni savez",
+        "voditelj": "Ana Marić"
+      }
+    },
+    {
+      "id": 3,
+      "akcija": {
+        "naziv": "Sadnja stabala",
+        "grad": "Šibenik",
+        "datum": "2024-05-17",
+        "organizator": "Globalni napredak",
+        "voditelj": "Marko Petrović"
+      }
+    },
+    {
+      "id": 4,
+      "akcija": {
+        "naziv": "Pomoć u domu za starije",
+        "grad": "Trogir",
+        "datum": "2024-05-18",
+        "organizator": "Akademija znanja",
+        "voditelj": "Ivana Horvat"
+      }
+    },
+    {
+      "id": 5,
+      "akcija": {
+        "naziv": "Čitanje djeci u vrtiću",
+        "grad": "Makarska",
+        "datum": "2024-05-19",
+        "organizator": "Kreativni prostor",
+        "voditelj": "Mateo Kovač"
+      }
+    }
+  ]
+}

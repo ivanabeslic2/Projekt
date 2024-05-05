@@ -1,0 +1,39 @@
+{
+	"lokacije":[
+{
+"id":1
+"lokacija":{ "Split" 
+"mjesec" : 8}
+
+},
+{
+"id":2
+"lokacija":{ "Solin" 
+"mjesec" : 7}
+
+},
+{
+"id":3
+"lokacija":{ "Bol" 
+"mjesec" : 6}
+
+},
+{
+"id":4
+"lokacija":{ "Split" 
+"mjesec" : 5}
+
+},
+{
+"id":5
+"lokacija":{ "Sinj" 
+"mjesec" : 4}
+
+},
+{
+"id":6
+"lokacija":{ "Trogir" 
+"mjesec" : 10}
+
+}
+]
